@@ -13,6 +13,7 @@ import {
 
 import data from "./data";
 
+
 import Prop from "./components/prop";
 import { MaterialIcons, Entypo } from "@expo/vector-icons";
 import { center, ios_shadow } from "./commonStyles.js";
